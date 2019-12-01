@@ -1,0 +1,10 @@
+{
+  "name": "Json-To-Csv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "csvjson": "^5.1.0",
+    "jsonstream": "^1.0.3"
+  }
+}
